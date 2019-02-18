@@ -1,0 +1,548 @@
+
+ -rep- ffc0c0c 647
+ffffff00
+ -rep- ffc0c0c 63
+ffffff00
+ -rep- ffc0c0c 23
+
+ -rep- ff0000f 2
+
+ -rep- ffc0c0c 39
+
+ -rep- ffffff0 2
+
+ -rep- ffc0c0c 20
+ff808080
+ -rep- ff0000f 3
+
+ -rep- ffc0c0c 39
+
+ -rep- ffffff0 3
+
+ -rep- ffc0c0c 5
+ffff0000ffc0c0c0ffffffff
+ -rep- ffc0c0c 10
+
+ -rep- ff0000f 4
+
+ -rep- ffc0c0c 47
+
+ -rep- ffff000 5
+ffc0c0c0ffffffff
+ -rep- ffc0c0c 5
+ff808080
+ -rep- ff0000f 4
+ffffffff
+ -rep- ffc0c0c 45
+
+ -rep- ffff000 7
+
+ -rep- ffc0c0c 6
+
+ -rep- ff0000f 5
+ff800080
+ -rep- ffff000 7
+ffc0c0c0ffffffff
+ -rep- ffc0c0c 30
+ffffff00
+ -rep- ffc0c0c 5
+ffffffffffc0c0c0
+ -rep- ffff000 5
+
+ -rep- ffc0c0c 5
+ffff0000
+ -rep- ff0000f 6
+
+ -rep- ffff000 18
+
+ -rep- ffc0c0c 19
+
+ -rep- ffffff0 2
+
+ -rep- ffc0c0c 6
+
+ -rep- ff80808 3
+ffc0c0c0ffffffff
+ -rep- ffc0c0c 7
+ffff0000
+ -rep- ff0000f 6
+
+ -rep- ffff000 19
+
+ -rep- ffc0c0c 25
+ffffff00
+ -rep- ff80808 6
+
+ -rep- ffc0c0c 5
+
+ -rep- fffffff 2
+
+ -rep- ff0000f 6
+
+ -rep- fffffff 6
+ffc0c0c0
+ -rep- ffff000 13
+ffffffff
+ -rep- ffc0c0c 24
+
+ -rep- ffffff0 3
+
+ -rep- ff80808 2
+
+ -rep- ffc0c0c 6
+
+ -rep- fffffff 2
+
+ -rep- ff0000f 6
+
+ -rep- ff80808 8
+ffc0c0c0
+ -rep- fffffff 7
+ffc0c0c0
+ -rep- ffff000 3
+ff808080
+ -rep- ffc0c0c 26
+
+ -rep- ffffff0 2
+ff808080
+ -rep- ffc0c0c 6
+
+ -rep- ff80808 2
+
+ -rep- ff0000f 6
+
+ -rep- ff80808 11
+ffc0c0c0
+ -rep- fffffff 5
+ffc0c0c0
+ -rep- ffff000 3
+
+ -rep- ffc0c0c 24
+
+ -rep- ffffff0 3
+ffffffff
+ -rep- ffc0c0c 6
+
+ -rep- ff80808 3
+
+ -rep- ff0000f 6
+
+ -rep- ff80808 12
+
+ -rep- ffc0c0c 3
+
+ -rep- fffffff 3
+
+ -rep- ffff000 3
+
+ -rep- ffc0c0c 23
+ffffff00
+ -rep- fffffff 4
+
+ -rep- ffc0c0c 6
+
+ -rep- ff80808 3
+
+ -rep- ff0000f 6
+
+ -rep- fffffff 7
+ffc0c0c0
+ -rep- ff80808 6
+ffc0c0c0
+ -rep- fffffff 3
+
+ -rep- ffff000 3
+
+ -rep- ffc0c0c 22
+
+ -rep- fffffff 5
+
+ -rep- ffc0c0c 6
+
+ -rep- fffffff 4
+
+ -rep- ff0000f 6
+
+ -rep- fffffff 9
+
+ -rep- ffc0c0c 5
+ff808080ffc0c0c0
+ -rep- fffffff 2
+
+ -rep- ffff000 3
+
+ -rep- ffc0c0c 22
+
+ -rep- fffffff 4
+
+ -rep- ffc0c0c 6
+
+ -rep- fffffff 5
+ff808080
+ -rep- ff0000f 5
+
+ -rep- fffffff 9
+
+ -rep- ffc0c0c 5
+
+ -rep- ff80808 2
+ffc0c0c0ffffffff
+ -rep- ffff000 3
+
+ -rep- ffc0c0c 22
+ffffff00
+ -rep- fffffff 3
+
+ -rep- ffc0c0c 6
+
+ -rep- fffffff 5
+ffc0c0c0
+ -rep- ff80808 2
+
+ -rep- ff0000f 2
+
+ -rep- ff80808 11
+ffc0c0c0
+ -rep- fffffff 2
+ff808080
+ -rep- ffc0c0c 3
+ffffffff
+ -rep- ffff000 3
+ffffffff
+ -rep- ffc0c0c 22
+
+ -rep- ffffff0 2
+
+ -rep- ffc0c0c 6
+
+ -rep- ff80808 23
+ffc0c0c0ffffffff
+ -rep- ffc0c0c 4
+ffffffff
+ -rep- ffff000 3
+ff808080
+ -rep- ffc0c0c 22
+ff808080
+ -rep- ffc0c0c 7
+
+ -rep- ff80808 22
+
+ -rep- ffc0c0c 4
+
+ -rep- ff80808 3
+ffffffffffc0c0c0
+ -rep- ffff000 3
+
+ -rep- ffc0c0c 29
+
+ -rep- ff80808 13
+ffc0c0c0
+ -rep- fffffff 8
+
+ -rep- ffc0c0c 8
+
+ -rep- fffffff 2
+
+ -rep- ffff000 3
+
+ -rep- ffc0c0c 29
+
+ -rep- ff80808 13
+ffc0c0c0
+ -rep- fffffff 9
+
+ -rep- ffc0c0c 7
+
+ -rep- fffffff 2
+
+ -rep- ffff000 3
+
+ -rep- ffc0c0c 28
+
+ -rep- ff80808 22
+ffc0c0c0
+ -rep- fffffff 2
+
+ -rep- ffc0c0c 4
+
+ -rep- ff80808 2
+ffc0c0c0ffffffff
+ -rep- ffff000 3
+ffffffff
+ -rep- ffc0c0c 13
+
+ -rep- ffffff0 3
+ffffffff
+ -rep- ffc0c0c 8
+
+ -rep- ff80808 7
+ffc0c0c0
+ -rep- fffffff 3
+ffc0c0c0
+ -rep- ff0000f 3
+
+ -rep- ff80808 11
+
+ -rep- ffc0c0c 5
+
+ -rep- ff80808 3
+ffffffff
+ -rep- ffff000 3
+ff808080
+ -rep- ffc0c0c 11
+
+ -rep- ffffff0 7
+
+ -rep- ffc0c0c 6
+
+ -rep- ff80808 5
+ffc0c0c0
+ -rep- fffffff 6
+ff808080
+ -rep- ff0000f 4
+
+ -rep- ff80808 10
+
+ -rep- ffc0c0c 7
+ff808080ffffffffffc0c0c0
+ -rep- ffff000 3
+
+ -rep- ffc0c0c 21
+ffffff00ffc0c0c0
+ -rep- ff80808 4
+ffc0c0c0
+ -rep- fffffff 8
+
+ -rep- ff0000f 5
+
+ -rep- fffffff 7
+ffc0c0c0
+ -rep- ff80808 5
+
+ -rep- ffc0c0c 4
+ff808080
+ -rep- fffffff 2
+
+ -rep- ffff000 3
+
+ -rep- ffc0c0c 19
+
+ -rep- ffffff0 2
+ffc0c0c0
+ -rep- ff80808 8
+ffc0c0c0
+ -rep- fffffff 4
+ffc0c0c0
+ -rep- ff0000f 5
+
+ -rep- fffffff 11
+
+ -rep- ffc0c0c 5
+
+ -rep- ff80808 2
+
+ -rep- fffffff 2
+
+ -rep- ffff000 4
+
+ -rep- ffc0c0c 15
+
+ -rep- ffffff0 3
+
+ -rep- fffffff 2
+
+ -rep- ff80808 15
+
+ -rep- ff0000f 5
+
+ -rep- ff80808 10
+
+ -rep- ffc0c0c 6
+ff808080ffc0c0c0
+ -rep- fffffff 2
+ffc0c0c0
+ -rep- ffff000 3
+
+ -rep- ffc0c0c 12
+
+ -rep- ffffff0 3
+
+ -rep- fffffff 5
+ffc0c0c0
+ -rep- ff80808 13
+
+ -rep- ff0000f 6
+
+ -rep- ff80808 10
+
+ -rep- ffc0c0c 7
+
+ -rep- fffffff 3
+ffc0c0c0
+ -rep- ffff000 3
+
+ -rep- ffc0c0c 11
+
+ -rep- ffffff0 2
+
+ -rep- fffffff 16
+ffc0c0c0
+ -rep- ff80808 4
+
+ -rep- ff0000f 6
+
+ -rep- ff80808 10
+
+ -rep- ffc0c0c 6
+
+ -rep- fffffff 4
+
+ -rep- ffff000 3
+ff808080
+ -rep- ffc0c0c 11
+
+ -rep- ffffff0 10
+
+ -rep- fffffff 5
+ffc0c0c0
+ -rep- ffff000 7
+
+ -rep- ff0000f 6
+
+ -rep- fffffff 20
+
+ -rep- ffff000 3
+ffffffff
+ -rep- ffc0c0c 18
+
+ -rep- ffffff0 3
+
+ -rep- fffffff 2
+ffc0c0c0
+ -rep- ffff000 10
+
+ -rep- ff0000f 6
+ffff0000ffc0c0c0
+ -rep- fffffff 17
+ffc0c0c0
+ -rep- ffff000 3
+
+ -rep- ffc0c0c 18
+ffffff00
+ -rep- fffffff 2
+ffc0c0c0
+ -rep- ffff000 13
+
+ -rep- ff0000f 6
+
+ -rep- ffff000 23
+
+ -rep- ffc0c0c 17
+ffffff00
+ -rep- fffffff 3
+
+ -rep- ffff000 3
+ffffff00
+ -rep- ffff000 3
+ff808080ffffffff
+ -rep- ffc0c0c 5
+
+ -rep- ff0000f 6
+
+ -rep- ffff000 22
+
+ -rep- ffc0c0c 16
+
+ -rep- ffffff0 2
+
+ -rep- fffffff 4
+ffc0c0c0
+ -rep- ffffff0 3
+ff808080ffffffff
+ -rep- ffc0c0c 8
+
+ -rep- ff0000f 6
+
+ -rep- ffff000 20
+ff808080ffffffff
+ -rep- ffc0c0c 15
+ffffff00
+ -rep- fffffff 5
+
+ -rep- ffffff0 3
+
+ -rep- ffc0c0c 12
+
+ -rep- ff0000f 6
+
+ -rep- ffc0c0c 36
+ffffff00
+ -rep- fffffff 5
+
+ -rep- ffffff0 3
+
+ -rep- ffc0c0c 13
+ff808080
+ -rep- ff0000f 5
+
+ -rep- ffc0c0c 36
+ffffff00
+ -rep- fffffff 3
+
+ -rep- ffffff0 2
+ffc0c0c0ffffff00
+ -rep- ffc0c0c 15
+
+ -rep- ff0000f 5
+
+ -rep- ffc0c0c 35
+ffffff00ffffffff
+ -rep- ffffff0 3
+
+ -rep- ffc0c0c 3
+ffffff00
+ -rep- ffc0c0c 16
+
+ -rep- ff0000f 4
+
+ -rep- ffc0c0c 35
+
+ -rep- ffffff0 2
+
+ -rep- ffc0c0c 5
+ffffff00
+ -rep- ffc0c0c 17
+
+ -rep- ff0000f 3
+
+ -rep- ffc0c0c 43
+ffffff00
+ -rep- ffc0c0c 17
+ff808080
+ -rep- ff0000f 2
+
+ -rep- ffc0c0c 42
+ffffff00
+ -rep- ffc0c0c 19
+ff808080
+ -rep- ffc0c0c 43
+ffffff00
+ -rep- ffc0c0c 62
+ffffff00
+ -rep- ffc0c0c 63
+ffffff00
+ -rep- ffc0c0c 62
+ffffff00
+ -rep- ffc0c0c 63
+ffffff00
+ -rep- ffc0c0c 63
+ffffff00
+ -rep- ffc0c0c 62
+ffffff00
+ -rep- ffc0c0c 63
+ffffff00
+ -rep- ffc0c0c 63
+ffffff00
+ -rep- ffc0c0c 63
+ffffff00
+ -rep- ffc0c0c 310
